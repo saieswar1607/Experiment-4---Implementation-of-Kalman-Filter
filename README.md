@@ -65,7 +65,7 @@ plt.show()
 
 ## Output:
 
-<img width="930" alt="1" src="https://github.com/saieswar1607/Experiment-4---Implementation-of-Kalman-Filter/assets/93427011/ba5783df-3684-4199-9868-b1a3464658a2">
+<img width="628" alt="2" src="https://github.com/saieswar1607/Experiment-4---Implementation-of-Kalman-Filter/assets/93427011/90b00fe5-861b-4e38-8ce4-be903eed94fa">
 
 ## Result:
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
