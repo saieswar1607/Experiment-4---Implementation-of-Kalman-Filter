@@ -10,10 +10,7 @@ Step 4:Update the state estimate based on the measurement using kf.update(). </b
 Step 5:Store the estimated state in a list. </br>
 Step 6:Plot the true and estimated positions.</br>
 ## Program:
-```
-Developed By : Sai Eswar Kandukuri
-Register Number : 212221240020
-```
+
 ```
 import numpy as np
 
