@@ -62,8 +62,10 @@ plt.plot([s[0] for s in est_states],label='estimate')
 plt.legend
 plt.show()
 ```
+
 ## Output:
-![output](https://github.com/21003698/Experiment-4---Implementation-of-Kalman-Filter/blob/main/kalman%20filter.jpg?raw=true)
+
+<img width="930" alt="1" src="https://github.com/saieswar1607/Experiment-4---Implementation-of-Kalman-Filter/assets/93427011/ba5783df-3684-4199-9868-b1a3464658a2">
 
 ## Result:
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
